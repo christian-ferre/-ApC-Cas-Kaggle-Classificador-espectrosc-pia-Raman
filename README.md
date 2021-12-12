@@ -8,15 +8,16 @@
 El dataset utilitza dades del resultat de realitzar una espectroscòpia de Raman a un pacient per diagnosticar si té covid o no.
 Tenim 309 dades amb 901 atributs. Tots els atributs són númerics excepte l'atribut 'diagnostic' que és categòric. La base de dades és balancejada.
 ### Objectius
-El nostre objectiu és ser capaç de fer un diagnòstic d'un pacient a partir de les dades proporcionades per l'espectroscòpia Raman.
-## Experiments
+El meu objectiu és ser capaç de fer un diagnòstic d'un pacient a partir de les dades proporcionades per l'espectroscòpia Raman.
 
 ### Preprocessat
-
+Abans de treballar amb la base de dades, hem tractat els nulls, examinat els tipus d'atributs, estandarditzat les dades i estudiat la correlació.
 ## Model
-
+- Decision Tree amb cerca d'hiperparàmetres
+- Random Forest
+- Regressor logístic
 ## Conclusions
-El millor model que he aconseguint a estat ...
+El millor model que he aconseguint a és el regressor logístic amb una classificació quasi perfecta.
 
 ## Idees per treballar en un futur 
 Crec que amb més dades i un model amb una cerca d'hiperparàmetres més extensa pot arribar a ser molt fiable respecte a les prediccions.
