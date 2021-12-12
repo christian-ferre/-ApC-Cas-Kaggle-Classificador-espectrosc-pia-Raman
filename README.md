@@ -11,12 +11,13 @@ Tenim 309 dades amb 901 atributs. Tots els atributs són númerics excepte l'atr
 El nostre objectiu és ser capaç de fer un diagnòstic d'un pacient a partir de les dades proporcionades per l'espectroscòpia Raman.
 ##Experiments
 
-###Preprocessat
+### Preprocessat
 
-##Model
+## Model
 
 ## Conclusions
 El millor model que he aconseguint a estat ...
+
 ## Idees per treballar en un futur 
 Crec que amb més dades i un model amb una cerca d'hiperparàmetres més extensa pot arribar a ser molt fiable respecte a les prediccions.
 Per tant, podem arribar a obtenir un model que en segons pugui donar-te un resultat quasi perfecte i ajudar a diagnosticar molts casos 
