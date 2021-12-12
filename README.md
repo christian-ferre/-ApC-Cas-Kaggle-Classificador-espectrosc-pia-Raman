@@ -9,7 +9,7 @@ El dataset utilitza dades del resultat de realitzar una espectroscòpia de Raman
 Tenim 309 dades amb 901 atributs. Tots els atributs són númerics excepte l'atribut 'diagnostic' que és categòric. La base de dades és balancejada.
 ### Objectius
 El nostre objectiu és ser capaç de fer un diagnòstic d'un pacient a partir de les dades proporcionades per l'espectroscòpia Raman.
-##Experiments
+## Experiments
 
 ### Preprocessat
 
